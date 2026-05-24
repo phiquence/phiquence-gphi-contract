@@ -1,4 +1,3 @@
-Official smart contract repository for PHIQUENCE (GPHI) - A structurally governed BEP-20 ecosystem.
 <div align="center">
   <img src="logo.png" alt="PHIQUENCE Logo" width="200"/>
   <h1>PHIQUENCE (GPHI) Smart Contract</h1>
