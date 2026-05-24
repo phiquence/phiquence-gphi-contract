@@ -1,4 +1,3 @@
-# phiquence-gphi-contract
 Official smart contract repository for PHIQUENCE (GPHI) - A structurally governed BEP-20 ecosystem.
 <div align="center">
   <img src="logo.png" alt="PHIQUENCE Logo" width="200"/>
